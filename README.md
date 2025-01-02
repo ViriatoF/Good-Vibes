@@ -21,6 +21,7 @@ Just a few actuality for start a good day whitout bad vibrations.
 ## Tech Stack
 
 **Client:** HTML, CSS, React, TypeScript
+
 **Server:** Express
 
 
