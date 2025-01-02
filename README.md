@@ -1,4 +1,36 @@
-# ProtoJam_Good-Vibes
+
+# Good vibes
+
+A website with only good vibes!
+Just a few actuality for start a good day whitout bad vibrations.
+
+
+## Authors
+
+- [@ViriatoF](https://www.github.com/ViriatoF)
+- [@FarCodeFR](https://www.github.com/FarCodeFR)
+- [@vloiseau13](https://www.github.com/vloiseau13)
+- [@RomainLmn44](https://www.github.com/RomainLmn44)
+
+
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
+
+## Tech Stack
+
+**Client:** HTML, CSS, React, TypeScript
+**Server:** Express
+
+
+## Screenshots
+
+![Cap_good-vibes1](https://github.com/user-attachments/assets/4da5e2b9-d4de-4aa3-aa41-2d469e1a7b91)
+
+![Cap_good-vibes2](https://github.com/user-attachments/assets/7b0f11db-37d6-4d72-b330-c488791ebfac)
+
+
 
 Ce projet est un monorepo JS, suivant l'architecture React-Express-MySQL telle qu'enseignée à la Wild Code School (v7.1.7) :
 
