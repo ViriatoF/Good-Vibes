@@ -1,10 +1,12 @@
-![Logo](![Logo](https://github.com/user-attachments/assets/9094e779-311f-44d1-8425-133ce1dfc357)
-)
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-# Good vibes
+![Logo](https://github.com/user-attachments/assets/9094e779-311f-44d1-8425-133ce1dfc357)
+<br />
+<br />
 
 A website with only good vibes!
+<br />
 Just a few actuality for start a good day whitout bad vibrations.
+<br />
+<br />
 
 
 ## Authors
@@ -14,10 +16,8 @@ Just a few actuality for start a good day whitout bad vibrations.
 - [@vloiseau13](https://www.github.com/vloiseau13)
 - [@RomainLmn44](https://www.github.com/RomainLmn44)
 
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
+<br />
+<br />
 
 
 ## Tech Stack
@@ -25,6 +25,9 @@ Just a few actuality for start a good day whitout bad vibrations.
 **Client:** HTML, CSS, React, TypeScript
 
 **Server:** Express
+
+<br />
+<br />
 
 
 ## Screenshots
@@ -34,6 +37,11 @@ Just a few actuality for start a good day whitout bad vibrations.
 ![Cap_good-vibes2](https://github.com/user-attachments/assets/7b0f11db-37d6-4d72-b330-c488791ebfac)
 
 
+
+
+<br />
+<br />
+<br />
 
 Ce projet est un monorepo JS, suivant l'architecture React-Express-MySQL telle qu'enseignée à la Wild Code School (v7.1.7) :
 
